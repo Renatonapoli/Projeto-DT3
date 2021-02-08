@@ -48,3 +48,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/)
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
+- [CSS](https://devdocs.io/css/)
