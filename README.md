@@ -28,9 +28,6 @@ $ git clone <https://github.com/tgmarinho/nlw1>
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Projeto-DT3
 
-# Vá para a pasta server
-$ cd my-app
-
 # Instale as dependências
 $ npm install
 
