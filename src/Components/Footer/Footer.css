@@ -1,0 +1,120 @@
+.icones, ul{
+    position: absolute;
+    margin-left: -490px;
+    margin-top: 70em;
+    padding: 15px;
+    color: #ccc2bf;
+    width:483px;
+    opacity:1;
+
+}
+.icone1, .icone2, .icone3, .icone4, .icone5, .icone6, .icone7, .icone8{
+    opacity:0.5;
+}
+.icone1:hover, .icone2:hover, .icone3:hover, .icone4:hover, .icone5:hover, .icone6:hover, .icone7:hover, .icone8:hover{
+    opacity:1;
+}
+title{
+    font-size: x-large;
+    position: absolute;
+    text-align: center;
+    color: black;
+}
+.video{
+    margin-top: 1100px;
+    padding-left: 350px;
+    z-index: 90;
+}
+.elite{
+    position: absolute;
+    margin: 650px 880px;
+    border-radius: 20px;
+    width: 400px;
+}
+.elitekg{
+    position: absolute;
+    margin: 650px 460px;
+    border-radius: 20px;
+    width: 400px;
+}
+.eliteDesconto{
+    position: absolute;
+    margin: 650px 40px;
+    border-radius: 20px;
+    width: 400px;
+}
+.assinatura {
+   position: absolute;
+   text-align: center;
+   margin: 1160px 600px;
+   padding: 15px;
+   padding-top: 50px;
+   padding-left: 0px;
+   font-family: julius sans one;
+   color:#ccc2bf;
+   font-weight: bolder;
+}
+.icone1{
+    position: absolute;
+    width:auto;
+    height: auto;
+    max-width: 20px;
+    max-height: 20px;
+    margin: 1160px 500px;
+}
+.icone2{
+    position: absolute;
+    width:auto;
+    height: auto;
+    max-width: 30px;
+    max-height: 30px;
+    margin: 1150px 550px;
+}
+.icone3{
+    position: absolute;
+    width:auto;
+    height: auto;
+    max-width: 30px;
+    max-height: 30px;
+    margin: 1155px 600px;
+}
+.icone4{
+    position: absolute;
+    width:auto;
+    height: auto;
+    max-width: 25px;
+    max-height: 25px;
+    margin: 1155px 650px;
+}
+.icone5{
+    position: absolute;
+    width:auto;
+    height: auto;
+    max-width: 20px;
+    max-height: 20px;
+    margin: 1160px 700px;
+}
+.icone6{
+    position: absolute;
+    width:auto;
+    height: auto;
+    max-width: 25px;
+    max-height: 25px;
+    margin: 1160px 750px;
+}
+.icone7{
+    position: absolute;
+    width:auto;
+    height: auto;
+    max-width: 20px;
+    max-height: 20px;
+    margin: 1160px 850px;
+}
+.icone8{
+    position: absolute;
+    width:auto;
+    height: auto;
+    max-width: 20px;
+    max-height: 20px;
+    margin: 1160px 800px;
+}

@@ -1,0 +1,144 @@
+.logo{
+   display: flex;
+   margin-top: 10px;
+   width: auto;
+   height: auto;
+   max-width: 120px;
+   margin-left: 600px;
+   z-index: 2;
+}
+div.contatos{
+    position: absolute;   
+    margin-top: -50px;
+    font-family: open sans;
+    font-size: 25px;
+    margin-left: 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+    opacity: 0.5px;
+}
+
+.titulo{
+    color: rgb(17, 17, 17);
+    font-family: open sans;
+    line-height: 10px;
+    padding-top: 10px;
+    text-align: center;
+    text-transform: none;
+}
+.sobre{
+    color: rgb(153, 153, 153);
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-transform: none;
+    width: 100%;
+}
+p{
+    font-family: open sans;
+    font-size: 25px;
+}
+h1{
+    font-family: julius sans one;
+    font-size: 60px;
+    font-weight: bolder;
+}
+h2{
+    font-family: julius sans one;
+    font-size: 25px
+}
+.cadeira{
+    width: auto;
+    height: auto;
+    max-width: 1200px;
+    max-height: auto;
+    margin-left: 60px;
+    margin-top: 100px;
+}
+.twiter{
+    position: absolute;
+    width: auto;
+    height: auto;
+    max-width: 20px;
+    margin-top: 25px;
+    margin-left: 1005px;
+    z-index: 25;    
+}
+.email{
+    position: absolute;
+    width: auto;
+    height: auto;
+    max-width: 18px;
+    margin-top: 25px;
+    margin-left: 1280px;
+    z-index: 25;
+}
+.youtube{
+    position: absolute;
+    width: auto;
+    height: auto;
+    max-width: 21px;
+    margin-top: 23px;
+    margin-left: 1240px;
+    z-index: 25;
+}
+.medium{
+    position: absolute;
+    width: auto;
+    height: auto;
+    max-width: 20px;
+    margin-top: 25px;
+    margin-left: 1200px;
+    z-index: 25;
+}
+.instagran{
+    position: absolute;
+    width: auto;
+    height: auto;
+    max-width: 18px;
+    margin-top: 25px;
+    margin-left: 1165px;
+    z-index: 25;
+}
+.facebook{
+    position: absolute;
+    width: auto;
+    height: auto;
+    max-width: 20px;
+    margin-top: 25px;
+    margin-left: 1135px;
+    z-index: 25;
+}
+.linkedin{
+    position: absolute;
+    width: auto;
+    height: auto;
+    max-width: 30px;
+    margin-top: 18px;
+    margin-left: 1100px;
+    z-index: 25;
+}
+.be{
+    position: absolute;
+    width: auto;
+    height: auto;
+    max-width: 30px;
+    margin-top: 15px;
+    margin-left: 1050px;
+    z-index: 25;
+}
+.header {
+    position: fixed;
+    background: white;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 999;
+    box-shadow: 10px 5px 5px #4242427a;
+}

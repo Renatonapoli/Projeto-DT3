@@ -1,0 +1,56 @@
+.segundoTexto{
+    display: block;
+    color: #a9a9a9;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400px;
+    line-height: 25px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    text-align: center;
+    text-transform: none;
+    margin-left: 5px;
+}
+p{
+    font-family: open sans;
+    font-size: 20px;
+}
+h3{
+    font-family: julius sans one;
+    font-weight: bolder;
+}
+
+.almofada{
+    position: absolute;
+    width: auto;
+    height: auto;
+    max-width: 1150px;
+    max-height: auto;
+    margin-left: 80px;
+    margin-top: 20px;
+    z-index: 2;
+}
+.saibaMais{
+    position: absolute;
+    color: #a9a9a9;
+    font-size: 25px;
+    font-style: normal;   
+    line-height: 25px;
+    padding-top: 1px;
+    text-align: center;
+    margin-top: 320px;
+    margin-left: 220px;
+}
+.pesoSuportado{
+    position:absolute;
+    width: auto;
+    height: auto;
+    max-width: 1250px;
+    margin-top: 680px;
+    padding: 10px;
+    margin-left: 30px;
+}
+a{
+    color: #a9a9a9;
+    text-decoration: none;
+}
